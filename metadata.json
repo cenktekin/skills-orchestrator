@@ -1,0 +1,5 @@
+{
+  "name": "LLM Skills Orchestrator Design",
+  "description": "An interactive web application showcasing the technical design, architecture, and components for an LLM-agnostic Skills Orchestrator on Google Cloud.",
+  "requestFramePermissions": []
+}
